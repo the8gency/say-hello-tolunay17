@@ -60,7 +60,7 @@ Mijn doel is om zo veel mogelijk bij te leren. Al jongs af altijd interrese geha
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tolunay-kutlu-6094461b7/)
 
-![GitHub URL](https://img.shields.io/twitter/url?label=tolunay17&logo=GitHub&style=for-the-badge&url=https%3A%2F%2Fgithub.com%2Ftolunay17)
+[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://img.shields.io/twitter/url?label=tolunay17&logo=GitHub&style=for-the-badge&url=https%3A%2F%2Fgithub.com%2Ftolunay17)
 
 ![Stack overflow URL](https://img.shields.io/twitter/url?label=stack%20overflow&logo=stack%20overflow&logoColor=orange&style=social&url=https%3A%2F%2Fstackoverflow.com%2Fusers%2F15215274%2Ftolunay)
 
