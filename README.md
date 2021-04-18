@@ -62,9 +62,9 @@ Mijn doel is om zo veel mogelijk bij te leren. Al jongs af altijd interrese geha
 
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tolunay17)
 
-![Stack overflow URL](https://img.shields.io/twitter/url?label=stack%20overflow&logo=stack%20overflow&logoColor=orange&style=social&url=https%3A%2F%2Fstackoverflow.com%2Fusers%2F15215274%2Ftolunay)
+[![](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15215274/tolunay)
 
-![Twitter URL](https://img.shields.io/twitter/url?label=Youtube&logo=Youtube&logoColor=red&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCUuOvHQQNPrPLdjQsewLo8g)
+[![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCUuOvHQQNPrPLdjQsewLo8g)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tolunay17)](https://github.com/tolunay17/github-readme-stats)
+[![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100009682454773)
