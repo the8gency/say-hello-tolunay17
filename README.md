@@ -1,4 +1,4 @@
-# CURRICULM VITAE
+# CURRICULUM VITAE
 
 Tolunay Kutlu
 Herderstraat 17
