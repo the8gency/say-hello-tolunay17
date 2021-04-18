@@ -66,5 +66,4 @@ Mijn doel is om zo veel mogelijk bij te leren. Al jongs af altijd interrese geha
 
 [![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCUuOvHQQNPrPLdjQsewLo8g)
 
-
 [![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100009682454773)
