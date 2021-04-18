@@ -1,10 +1,10 @@
 # CURRICULUM VITAE
 
- Tolunay Kutlu
- Herderstraat 17
- 9000 Gent
- (+32) 489 49 08 31
- tolunay.kutlu97@gmail.com
+- Tolunay Kutlu
+- Herderstraat 17
+- 9000 Gent
+- (+32) 489 49 08 31
+- tolunay.kutlu97@gmail.com
 
 ![](./img/toly.png)
 
