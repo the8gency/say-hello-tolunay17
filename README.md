@@ -6,7 +6,7 @@
 - (+32) 489 49 08 31
 - tolunay.kutlu97@gmail.com
 
-- ![](./img/toly.png)
+![](./img/toly.png)
 
 
 Ik ben Tolunay Kutlu. Ik studeer Graduaat Programming bij Arteveldehogeschool in Gent.
