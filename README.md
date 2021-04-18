@@ -1,13 +1,12 @@
 # CURRICULUM VITAE
 
-- Tolunay Kutlu
-- Herderstraat 17
-- 9000 Gent
-- (+32) 489 49 08 31
-- tolunay.kutlu97@gmail.com
+ Tolunay Kutlu
+ Herderstraat 17
+ 9000 Gent
+ (+32) 489 49 08 31
+ tolunay.kutlu97@gmail.com
 
 ![](./img/toly.png)
-
 
 Ik ben Tolunay Kutlu. Ik studeer Graduaat Programming bij Arteveldehogeschool in Gent.
 Mijn doel is om zo veel mogelijk bij te leren. Al jongs af altijd interrese gehad in website’s maken, designen. Mijn droom is altijd een Full-Stack developer te worden, en ik heb de kans gekregen om deze richting te kiezen.
@@ -58,6 +57,7 @@ Mijn doel is om zo veel mogelijk bij te leren. Al jongs af altijd interrese geha
 	          Kantoor en Verkoop, Abdisstraat 56 9000 Gent  
 -	2009 - 2010:  1ste jaar BSO Provinciale  Middenschool Gent 
 
+##### Socials
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tolunay-kutlu-6094461b7/)
 
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tolunay17)
