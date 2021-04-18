@@ -58,7 +58,7 @@ Mijn doel is om zo veel mogelijk bij te leren. Al jongs af altijd interrese geha
 	          Kantoor en Verkoop, Abdisstraat 56 9000 Gent  
 -	2009 - 2010: 1ste jaar BSO Provinciale  Middenschool Gent 
 
-![https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/twitter/url?label=LinkedIn&logo=LinkedIn&logoColor=blue&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ftolunay-kutlu-6094461b7%2F)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/tolunay-kutlu-6094461b7/)
 
 ![GitHub URL](https://img.shields.io/twitter/url?label=tolunay17&logo=GitHub&style=for-the-badge&url=https%3A%2F%2Fgithub.com%2Ftolunay17)
 
