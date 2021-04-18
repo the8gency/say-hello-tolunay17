@@ -58,13 +58,13 @@ Mijn doel is om zo veel mogelijk bij te leren. Al jongs af altijd interrese geha
 	          Kantoor en Verkoop, Abdisstraat 56 9000 Gent  
 -	2009 - 2010: 1ste jaar BSO Provinciale  Middenschool Gent 
 
-![https://www.linkedin.com/in/tolunay-kutlu-6094461b7/](https://img.shields.io/twitter/url?label=LinkedIn&logo=LinkedIn&logoColor=blue&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ftolunay-kutlu-6094461b7%2F)
+![GitHub URL](https://img.shields.io/twitter/url?label=LinkedIn&logo=LinkedIn&logoColor=blue&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ftolunay-kutlu-6094461b7%2F)
 
-![https://github.com/tolunay17](https://img.shields.io/twitter/url?label=tolunay17&logo=GitHub&style=for-the-badge&url=https%3A%2F%2Fgithub.com%2Ftolunay17)
+![Twitter URL](https://img.shields.io/twitter/url?label=tolunay17&logo=GitHub&style=for-the-badge&url=https%3A%2F%2Fgithub.com%2Ftolunay17)
 
-![https://stackoverflow.com/users/15215274/tolunay](https://img.shields.io/twitter/url?label=stack%20overflow&logo=stack%20overflow&logoColor=orange&style=social&url=https%3A%2F%2Fstackoverflow.com%2Fusers%2F15215274%2Ftolunay)
+![Twitter URL](https://img.shields.io/twitter/url?label=stack%20overflow&logo=stack%20overflow&logoColor=orange&style=social&url=https%3A%2F%2Fstackoverflow.com%2Fusers%2F15215274%2Ftolunay)
 
-![https://www.youtube.com/channel/UCUuOvHQQNPrPLdjQsewLo8g](https://img.shields.io/twitter/url?label=Youtube&logo=Youtube&logoColor=red&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCUuOvHQQNPrPLdjQsewLo8g)
+![Twitter URL](https://img.shields.io/twitter/url?label=Youtube&logo=Youtube&logoColor=red&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCUuOvHQQNPrPLdjQsewLo8g)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tolunay17)](https://github.com/tolunay17/github-readme-stats)
