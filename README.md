@@ -50,13 +50,13 @@ Mijn doel is om zo veel mogelijk bij te leren. Al jongs af altijd interrese geha
 ##### Studies
 -	2020 - Heden:  Graduaat Programmeren – Artevelde Hogeschool
 		  JavaScript, HTML5, CSS3, Node.js, Express, Adobe XD, Web API’s, 	  	  Powershell, Github, Raspberry Pi, Linuxshell...
--	2015 - 2016: 3de Graad BSO KTA MoBi Gent Automechanica 
+-	2015 - 2016:  3de Graad BSO KTA MoBi Gent Automechanica 
 	           Coupure Rechts 312 9000 Gent 
--	2013 - 2015: 3de Graad BSO KTA MoBi Gent Automechanica  
--	2011 - 2013: 2de Graad BSO KTA MoBi Gent Basismechanica 
--	2010 - 2011: 2de jaar BSO Provinciale Middenschool in Gent 
+-	2013 - 2015:  3de Graad BSO KTA MoBi Gent Automechanica  
+-	2011 - 2013:  2de Graad BSO KTA MoBi Gent Basismechanica 
+-	2010 - 2011:  2de jaar BSO Provinciale Middenschool in Gent 
 	          Kantoor en Verkoop, Abdisstraat 56 9000 Gent  
--	2009 - 2010: 1ste jaar BSO Provinciale  Middenschool Gent 
+-	2009 - 2010:  1ste jaar BSO Provinciale  Middenschool Gent 
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tolunay-kutlu-6094461b7/)
 
